@@ -1,10 +1,10 @@
-## 📌 **Smart Recipe Finder** 🍽️✨  
+## 📌 **QuickBite** 🍽️✨  
 *Your AI-powered assistant for discovering delicious recipes in seconds!*  
 
 ![ce5e1f753185b68112966aca600de7f3](https://github.com/user-attachments/assets/5e8ca038-9143-4298-94f3-95775d9e68f2)
 
 ###  **About the Project**  
-The **Smart Recipe Finder** is an intuitive, AI-powered web application designed to help food lovers find the perfect recipe based on **ingredients, prep time, cook time, cuisine, diet, and course preference**. Whether you're short on time or craving something specific, this app ensures you get the best recipes with ease! 🌍🍲  
+The **QuickBite** is an intuitive, AI-powered web application designed to help food lovers find the perfect recipe based on **ingredients, prep time, cook time, cuisine, diet, and course preference**. Whether you're short on time or craving something specific, this app ensures you get the best recipes with ease! 🌍🍲  
 
 ---
 
